@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.srg.sospets",
+      "sha256_cert_fingerprints": [
+        "CA:22:80:0A:76:46:E1:62:6C:27:AA:F7:14:AB:92:14:BA:8C:06:DE:87:4F:E1:0A:2D:75:CD:25:9C:71:D2:27"
+      ]
+    }
+  }
+]
